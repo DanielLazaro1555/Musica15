@@ -867,5 +867,71 @@
         "album": "If You Can Believe Your Eyes & Ears",
         "numero_de_pista": "12/12",
         "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274431_1.flac",
+        "descripcion": "198274431",
+        "imagen": "Albums/198274431.jpg",
+        "genero": "R&B/General",
+        "titulo": "Call Out My Name",
+        "artista": "The Weeknd",
+        "album": "My Dear Melancholy, [Explicit]",
+        "numero_de_pista": "1/6",
+        "Año": "2018"
+      },
+      {
+        "archivo_musica": "Albums/198274431_2.flac",
+        "descripcion": "198274431",
+        "imagen": "Albums/198274431.jpg",
+        "genero": "R&B/General",
+        "titulo": "Try Me",
+        "artista": "The Weeknd",
+        "album": "My Dear Melancholy, [Explicit]",
+        "numero_de_pista": "2/6",
+        "Año": "2018"
+      },
+      {
+        "archivo_musica": "Albums/198274431_3.flac",
+        "descripcion": "198274431",
+        "imagen": "Albums/198274431.jpg",
+        "genero": "R&B/General",
+        "titulo": "Wasted Times [Explicit]",
+        "artista": "The Weeknd",
+        "album": "My Dear Melancholy, [Explicit]",
+        "numero_de_pista": "3/6",
+        "Año": "2018"
+      },
+      {
+        "archivo_musica": "Albums/198274431_4.flac",
+        "descripcion": "198274431",
+        "imagen": "Albums/198274431.jpg",
+        "genero": "R&B/General",
+        "titulo": "I Was Never There",
+        "artista": "The Weeknd & Gesaffelstein",
+        "album": "My Dear Melancholy, [Explicit]",
+        "numero_de_pista": "4/6",
+        "Año": "2018"
+      },
+      {
+        "archivo_musica": "Albums/198274431_5.flac",
+        "descripcion": "198274431",
+        "imagen": "Albums/198274431.jpg",
+        "genero": "R&B/General",
+        "titulo": "Hurt You [Explicit]",
+        "artista": "The Weeknd & Gesaffelstein",
+        "album": "My Dear Melancholy, [Explicit]",
+        "numero_de_pista": "5/6",
+        "Año": "2018"
+      },
+      {
+        "archivo_musica": "Albums/198274431_6.flac",
+        "descripcion": "198274431",
+        "imagen": "Albums/198274431.jpg",
+        "genero": "R&B/General",
+        "titulo": "Privilege [Explicit]",
+        "artista": "The Weeknd",
+        "album": "My Dear Melancholy, [Explicit]",
+        "numero_de_pista": "6/6",
+        "Año": "2018"
       }
 ]
