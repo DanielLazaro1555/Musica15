@@ -735,5 +735,137 @@
         "album": "The Wave (Deluxe)",
         "numero_de_pista": "16/16",
         "Año": "2016"
-    }
+    },
+    {
+        "archivo_musica": "Albums/198274430_1.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Monday, Monday (Single Version)",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "1/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_2.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Straight Shooter",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "2/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_3.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Got A Feelin'",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "3/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_4.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "I Call Your Name",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "4/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_5.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Do You Wanna Dance",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "5/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_6.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Go Where You Wanna Go",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "6/12",
+        "Año": "1964"
+      },
+      {
+        "archivo_musica": "Albums/198274430_7.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "California Dreamin' (Single Version)",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "7/12",
+        "Año": "1965"
+      },
+      {
+        "archivo_musica": "Albums/198274430_8.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Spanish Harlem",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "8/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_9.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Somebody Groovy (Single Version)",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "9/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_10.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "Hey Girl",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "10/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_11.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "You Baby",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "11/12",
+        "Año": "1966"
+      },
+      {
+        "archivo_musica": "Albums/198274430_12.flac",
+        "descripcion": "198274430",
+        "imagen": "Albums/198274430.jpg",
+        "genero": "Pop/General",
+        "titulo": "The (In) Crowd",
+        "artista": "The Mamas & The Papas",
+        "album": "If You Can Believe Your Eyes & Ears",
+        "numero_de_pista": "12/12",
+        "Año": "1966"
+      }
 ]
